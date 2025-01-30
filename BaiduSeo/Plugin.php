@@ -4,9 +4,9 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * 百度SEO
  * 
  * @package BaiduSeo
- * @author BlueJay
+ * @author 观澜
  * @version 1.0.0
- * @link https://www.cwlog.net/
+ * @link https://coldwinter.top/
  */
 class BaiduSeo_Plugin extends Typecho_Widget implements Typecho_Plugin_Interface
 {
